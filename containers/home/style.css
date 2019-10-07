@@ -1,0 +1,6 @@
+.home_master {
+  width: calc(100% - 32px);
+  height: calc(100% - 32px);
+  overflow: scroll;
+  padding: 16px;
+}
